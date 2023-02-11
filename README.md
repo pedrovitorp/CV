@@ -1,14 +1,19 @@
+
 <h1> <b> Pedro Vitor Pereira </b> </h1>
 <h2> <i> Product Designer | Quality Assurance Analyst | </i> </h2>
 
 # Portfolio
-- <a href="Sobre Mim">Sobre Mim</a>
+- <a href="#Sobre Mim"> Sobre Mim </a>
+- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
+- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
+- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
+- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
+- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
+- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
 
 <h2> 
 <i> 
-<a 
-<id="Sobre Mim"> 
-</a> Sobre Mim 
+<a id="Sobre Mim"> </a> SOBRE MIM
 </i> 
 </h2>
 
@@ -24,7 +29,11 @@
   <a href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  <h2> EDUCAÇÃO SUPERIOR E TÉCNICA </h2>
+<h2> 
+<i> 
+<a id="EDUCAÇÃO SUPERIOR E TÉCNICA"> </a> EDUCAÇÃO SUPERIOR E TÉCNICA
+</i> 
+</h2>
   
   <h3> Universidade Anhembi Morumbi 
     <p> <h4> <i><b> Design de Games (Bacharelado) - </b> <u> 2013/2018 </u> </i> </h4>
@@ -43,10 +52,12 @@
   
  <hr></hr>
 
-  <h3> SAGA School of Art, Game and Animation 
-    <p> <h4> <i><b> Design de Games (Curso Técnico) - </b> <u> 2010/2011 </u> </i> </h4>
-    <p>O curso de criação de jogos mais atualizado do Brasil, que ensiina desde jogos 2D e 3D para diversas plataformas vivenciando todas as etapas, desde a pré-produção até a criação de um protótipo jogável e sua documentação, evoluindo dentro de um processo de trabalho similar aos dos estúdios profissionais de games. Através da Unreal Engine, motor de jogos mais utilizado e avançado do mundo. 
+  <h3> Senac São Paulo 
+    <p> <h4> <i><b> Design de Interiores (Curso Técnico) - </b> <u> 2009/2010 </u> </i> </h4>
+    <p>Com a duração de 23 meses, o curso Técnico em Design de Interiores prepara para elaborar, projetar e acompanhar a execução de projetos de interiores de espaços residenciais, comerciais, institucionais, promocionais e vendas especializadas. Além disso, ele direciona o uso de ferramentas como Promob e AutoCAD. 
 </p>
     </p>
   </h3> 
+  
+  
   
