@@ -129,10 +129,38 @@ programa padrão.
  
  <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" height="40" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" />
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="40" />
   </a>
+ 
+ <p align="center">
+  Outros: 
+  <a href="texto"><b>lorem ipsum</b>
+  </a><b>, </b><a href="texto"><b>lorem ipsum</b></a>
+  </a><b>, </b><a href="texto"><b>lorem ipsum</b></a>
+  </a><b>, </b><a href="texto"><b>lorem ipsum</b></a>
+  </a><b>, </b><a href="texto"><b>lorem ipsum</b></a>
+ </p>
+</p>
+
+<hr></hr>
+
+ <h3 align="center"> <i> FERRAMENTAS DE DESIGN </i> </h3>
+ 
+<p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="40" />
+  </a>
+ 
  <p align="center">
   Outros: 
   <a href="texto"><b>lorem ipsum</b>
