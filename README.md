@@ -1,11 +1,11 @@
+# INÍCIO
 
-<h1> <b> Pedro Vitor Pereira </b> </h1>
-<h2> <i> Product Designer | Quality Assurance Analyst | </i> </h2>
-
-# Portfolio
 - [Sobre Mim](#sobre-mim)
 - [Educação Superior e Técnica](#educação-superior-e-técnica)
 - [Educação Complementar](#educação-complementar)
+
+<h1> <b> Pedro Vitor Pereira </b> </h1>
+<h2> <i> Product Designer | Quality Assurance Analyst | </i> </h2>
 
 
 ## SOBRE MIM
@@ -103,3 +103,7 @@ programa padrão.
     </p>
     </div>
   </h3> 
+  
+
+ 
+  - [Voltar ao Início da Página](#início)
