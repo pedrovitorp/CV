@@ -120,7 +120,40 @@ programa padrão.
     </div>
   </h3> 
   
+
+ 
+ 
+ <h3 align="center"> FERRAMENTAS DE GERENCIAMENTO </h3>
+ 
+ <p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" height="40" />
+    <img src="img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" height="40" />
+    <img src="img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" height="40" />
+  </a>
+</p>
+
 <br></br>
-<br></br>
+
+<h3 align="center"> FERRAMENTAS DE TESTE AUTOMATIZADO </h3>
+ 
+ <p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" height="40" />
+  </a>
+</p>
+
+<h3 align="center"> ENGINES DE JOGOS </h3>
+ 
+ <p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" height="40" />
+  </a>
+</p>
+
  
   - [Voltar ao Início da Página](#início)
