@@ -12,8 +12,9 @@
 - [Educação Complementar](#educação-complementar)
 - [Hard Skills](#hard-skills)
 - [Técnicas de Teste](#técnicas-de-teste)
+- 
 
-<br></br>
+<br>
 
 ## SOBRE MIM  
 
@@ -42,43 +43,43 @@
 
 ## EDUCAÇÃO SUPERIOR E TÉCNICA 
   
-  <h3> Universidade Anhembi Morumbi 
+  <h3> Universidade Anhembi Morumbi </h3> 
     <p> <h4> <i><b> Design de Games (Bacharelado) - </b> <u> 2013/2018 </u> </i> </h4>
     <p>O curso superior de Bacharelado em Design de Games capacita o profissional a desenvolver maquetes digitais, roteiros, personagens e cenários para games,        além de produzir vinhetas e jogos (incluindo PC e Web). O profissional também poderá atuar com animação, áudio, jogos eletrônicos e programação ou design        de interfaces digitais.</p>
     </p>
-  </h3> 
+  
   
 <hr></hr>
 
-  <h3> SAGA School of Art, Game and Animation 
+  <h3> SAGA School of Art, Game and Animation </h3> 
     <p> <h4> <i><b> Design de Games (Curso Técnico) - </b> <u> 2010/2011 </u> </i> </h4>
     <p>O curso de criação de jogos mais atualizado do Brasil, que ensiina desde jogos 2D e 3D para diversas plataformas vivenciando todas as etapas, desde a pré-produção até a criação de um protótipo jogável e sua documentação, evoluindo dentro de um processo de trabalho similar aos dos estúdios profissionais de games. Através da Unreal Engine, motor de jogos mais utilizado e avançado do mundo. 
 </p>
     </p>
-  </h3> 
+  
   
  <hr></hr>
 
-  <h3> Senac São Paulo 
+  <h3> Senac São Paulo  </h3> 
     <p> <h4> <i><b> Design de Interiores (Curso Técnico) - </b> <u> 2009/2010 </u> </i> </h4>
     <p>Com a duração de 23 meses, o curso Técnico em Design de Interiores prepara para elaborar, projetar e acompanhar a execução de projetos de interiores de espaços residenciais, comerciais, institucionais, promocionais e vendas especializadas. Além disso, ele direciona o uso de ferramentas como Promob e AutoCAD. 
 </p>
     </p>
-  </h3> 
+ 
   
   <hr></hr>
 
-  <h3> Faculdade Méliès 
+  <h3> Faculdade Méliès  </h3> 
     <p> <h4> <i><b> Animação 3D (Curso Técnico) - </b> <u> 2017 </u> </i> </h4>
     <p>Atividades práticas de animação 2D, atividades práticas de animação 3d, avaliação das atividades, técnica cutout, frame a frame, estudo de action e pose to pose, gravações reais, estudo de rigging 3d, avaliação finalAtividades e grupos: Atividades práticas de animação 2D, atividades práticas de animação 3d, avaliação das atividades, técnica cutout, frame a frame, estudo de action e pose to pose, gravações reais, estudo de rigging 3d, avaliação final
 O objetivo do curso é priorizar o entendimento e a aplicação dos fundamentos básicos e essenciais da animação, que serão utilizados em todas as cenas.
 </p>
     </p>
-  </h3> 
-  
-  <hr></hr>
 
-  <h3> Faculdade Méliès 
+  
+  <hr>
+
+  <h3> Faculdade Méliès  </h3> 
     <p> <h4> <i><b> Render 3D (Curso Técnico) - </b> <u> 2017 </u> </i> </h4>
     <p>Edição de imagem em 3D, tratamento de assets, desenvolvimento de cenas, projeto final sendo uma composição de ponta a ponta 3D.Atividades e 
 grupos: Edição de imagem em 3D, tratamento de assets, desenvolvimento de cenas, projeto final sendo uma composição de ponta a ponta 3D.
@@ -88,8 +89,8 @@ textura para blendar a composição final em um software externo (photoshop). Ap
 programa padrão.
 </p>
     </p>
-  </h3> 
-  <hr></hr>
+
+  <hr>
   
 ## EDUCAÇÃO COMPLEMENTAR
 
@@ -106,7 +107,7 @@ programa padrão.
     </p>
     
 
-  <h3> Udemy
+  <h3> Udemy </h3> 
     <p> <h4> <i><b> Jira Software (2023): projetos
                     <br>completos com Scrum - Completo </b> </i> </h4>
     <p>Este curso é para todos os que desejam aprender a utilizar a metodologia 
@@ -120,7 +121,7 @@ programa padrão.
     </p>
     </p>
     </div>
-  </h3> 
+  
   
   <br></br>
   
@@ -149,18 +150,18 @@ programa padrão.
  </p>
 </p>
 
-<hr></hr>
+<hr>
 
  <h3 align="center"> <i> FERRAMENTAS DE DESIGN </i> </h3>
  
 <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="40" />
+    <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" height="30"/>
   </a>
  
  <p align="center">
@@ -173,57 +174,51 @@ programa padrão.
  </p>
 </p>
 
-<hr></hr>
+<hr>
 
  <h3 align="center"> <i> FERRAMENTAS DE GERENCIAMENTO </i></h3>
  
  <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" height="30" />
   
   </a>
 </p>
 
-<hr></hr>
+<hr>
 
 <h3 align="center"> <i> FERRAMENTAS DE TESTE AUTOMATIZADO</i> </h3>
  
  <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" height="40" />
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" height="30" />
   </a>
 </p>
 
-<hr></hr>
+<hr>
 
 <h3 align="center"> <i> ENGINES DE JOGOS </i> </h3>
  
  <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" height="40" />
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" height="30" />
   </a>
 </p>
 
 ## TÉCNICAS DE TESTE
-
+### Neste repositório, coloquei todas as técnicas que normalmente utilizo dentro da área de Quality Assurance Testing, descritivos das técnicas, e links das ferramentas para a execução dos testes (quando houver). Também estarei colocando alguns exemplos de aplicação das técnicas nos meus próprios testes, relacionados aos links.
+<br>
 
 |Técnica de Teste|Descrição da Técnica|Ferramentas Úteis para Execução da Técnica|
 |---------------|--------------|---------------|
-| Técnica de Todos os Pares| This example explains how to add and remove members<br /> |<a href=""><b>Link Técnica de Todos os Pares</b><a/>|
-| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
-| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
-| Técnica de Todos os Pares| This example explains how to add and remove members<br /> from your team, based on data from an external source. |
-| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
-| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
-| Técnica de Todos os Pares| This example explains how to add and remove members<br /> from your team, based on data from an external source. |
-| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
-| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
-
-
-
+| **Técnica de Todos os Pares**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://pairwise.teremokgames.com/"><b>Pairwise Tool</b><a/> |
+| **Técnica de Todos os Pares**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://pairwise.teremokgames.com/"><b>Pairwise Tool</b><a/> |
+ | **Técnica de Todos os Pares**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://pairwise.teremokgames.com/"><b>Pairwise Tool</b><a/> |
+ | **Técnica de Todos os Pares**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://pairwise.teremokgames.com/"><b>Pairwise Tool</b><a/> |
  
+ <br></br>
   - [Voltar ao Início da Página](#início)
