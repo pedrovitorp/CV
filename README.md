@@ -11,6 +11,7 @@
 - [Educação Superior e Técnica](#educação-superior-e-técnica)
 - [Educação Complementar](#educação-complementar)
 - [Hard Skills](#hard-skills)
+- [Técnicas de Teste](#técnicas-de-teste)
 
 <br></br>
 
@@ -129,13 +130,13 @@ programa padrão.
  <h3 align="center"> <i> LINGUAGENS DE PROGRAMAÇÃO </i> </h3>
  
  <p align="center" >
-  <a href="https://skillicons.dev">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" />
-    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="40" />
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="40" />
+  <a href="">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" />
+    <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" height="30" />
   </a>
  
  <p align="center">
@@ -206,6 +207,23 @@ programa padrão.
     <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" height="40" />
   </a>
 </p>
+
+## TÉCNICAS DE TESTE
+
+
+|Técnica de Teste|Descrição da Técnica|Ferramentas Úteis para Execução da Técnica|
+|---------------|--------------|---------------|
+| Técnica de Todos os Pares| This example explains how to add and remove members<br /> |<a href=""><b>Link Técnica de Todos os Pares</b><a/>|
+| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
+| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
+| Técnica de Todos os Pares| This example explains how to add and remove members<br /> from your team, based on data from an external source. |
+| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
+| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
+| Técnica de Todos os Pares| This example explains how to add and remove members<br /> from your team, based on data from an external source. |
+| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
+| Técnica de Todos os Pares| This example shows how to import issues from GitHub<br /> to a board with custom fields using Miro API. |
+
+
 
  
   - [Voltar ao Início da Página](#início)
