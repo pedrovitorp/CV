@@ -3,19 +3,11 @@
 <h2> <i> Product Designer | Quality Assurance Analyst | </i> </h2>
 
 # Portfolio
-- <a href="#Sobre Mim"> Sobre Mim </a>
-- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
-- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
-- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
-- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
-- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
-- <a href="#EDUCAÇÃO SUPERIOR E TÉCNICA"> Educação Superior e Técnica </a>
+- [Sobre Mim](#sobre-mim)
+- [Educação Superior e Técnica](#educação-superior-e-técnica)
 
-<h2> 
-<i> 
-<a id="Sobre Mim"> </a> SOBRE MIM
-</i> 
-</h2>
+
+## SOBRE MIM
 
  <img align="left" alt="PedroProfile-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/452692019555598346/1073807063383298088/124339406.jpg">
 </div>
@@ -29,15 +21,11 @@
   <a href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2> 
-<i> 
-<a id="EDUCAÇÃO SUPERIOR E TÉCNICA"> </a> EDUCAÇÃO SUPERIOR E TÉCNICA
-</i> 
-</h2>
+## EDUCAÇÃO SUPERIOR E TÉCNICA
   
   <h3> Universidade Anhembi Morumbi 
     <p> <h4> <i><b> Design de Games (Bacharelado) - </b> <u> 2013/2018 </u> </i> </h4>
-    <p>O curso superior de Bacharelado em Design de Games capacita o profissional a desenvolver maquetes digitais, roteiros, personagens e cenários para games,        além de produzir vinhetas e jogos (incluindo PC e Web). O profissional também poderá atuar com animação, áudio, jogos eletrônicos e programaçãoou design        de interfaces digitais.</p>
+    <p>O curso superior de Bacharelado em Design de Games capacita o profissional a desenvolver maquetes digitais, roteiros, personagens e cenários para games,        além de produzir vinhetas e jogos (incluindo PC e Web). O profissional também poderá atuar com animação, áudio, jogos eletrônicos e programação ou design        de interfaces digitais.</p>
     </p>
   </h3> 
   
@@ -59,5 +47,28 @@
     </p>
   </h3> 
   
+  <hr></hr>
+
+  <h3> Faculdade Méliès 
+    <p> <h4> <i><b> Animação 3D (Curso Técnico) - </b> <u> 2017 </u> </i> </h4>
+    <p>Atividades práticas de animação 2D, atividades práticas de animação 3d, avaliação das atividades, técnica cutout, frame a frame, estudo de action e pose to pose, gravações reais, estudo de rigging 3d, avaliação finalAtividades e grupos: Atividades práticas de animação 2D, atividades práticas de animação 3d, avaliação das atividades, técnica cutout, frame a frame, estudo de action e pose to pose, gravações reais, estudo de rigging 3d, avaliação final
+O objetivo do curso é priorizar o entendimento e a aplicação dos fundamentos básicos e essenciais da animação, que serão utilizados em todas as cenas.
+</p>
+    </p>
+  </h3> 
+  
+  <hr></hr>
+
+  <h3> Faculdade Méliès 
+    <p> <h4> <i><b> Render 3D (Curso Técnico) - </b> <u> 2017 </u> </i> </h4>
+    <p>Edição de imagem em 3D, tratamento de assets, desenvolvimento de cenas, projeto final sendo uma composição de ponta a ponta 3D.Atividades e 
+grupos: Edição de imagem em 3D, tratamento de assets, desenvolvimento de cenas, projeto final sendo uma composição de ponta a ponta 3D.
+O curso tem como prioridade ensinar, de ponta a ponta, as bases para uma sólida composição de Render em 3D, através de técnicas de 
+entendimento sobre iluminação, composição de cena, uso de câmera para correto enquadramento, cores, desenvolvimento dos diferentes tipos de 
+textura para blendar a composição final em um software externo (photoshop). Aprendemos todo o conteúdo do curso utilizando o Maya como 
+programa padrão.
+</p>
+    </p>
+  </h3> 
   
   
