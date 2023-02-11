@@ -5,7 +5,7 @@
 <h2> <i> Product Designer | Quality Assurance Analyst | </i> </h2>
 
 
-## INÍCIO
+## INÍCIO 
 
 - [Sobre Mim](#sobre-mim)
 - [Educação Superior e Técnica](#educação-superior-e-técnica)
@@ -13,7 +13,7 @@
 
 <br></br>
 
-## SOBRE MIM
+## SOBRE MIM  
 
  <img align="left" alt="PedroProfile-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/452692019555598346/1073807063383298088/124339406.jpg">
 </div>
@@ -23,17 +23,22 @@
 
 <div style="display: inline_block"><br>
  <div> 
-  <a href = "mailto:contato.pedrovitorpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
-   <a href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a alt="Gmail"
+   href = "mailto:contato.pedrovitorpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a alt="Linkedin"
+   href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a alt="Whatsapp"
+   href="https://wa.link/ibh8xv" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a alt="Behance"
+   href="https://www.behance.net/pedrovitor-design" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+  <a alt="Discord"
+   href="https://discord.com/users/229499134414028800" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
 
 
 </div>
 
-## EDUCAÇÃO SUPERIOR E TÉCNICA
+## EDUCAÇÃO SUPERIOR E TÉCNICA 
   
   <h3> Universidade Anhembi Morumbi 
     <p> <h4> <i><b> Design de Games (Bacharelado) - </b> <u> 2013/2018 </u> </i> </h4>
