@@ -120,23 +120,44 @@ programa padrão.
     </div>
   </h3> 
   
+  <br></br>
+  
+## HARD SKILLS
+ 
+<br></br>
+ <h3 align="center"> <i> LINGUAGENS DE PROGRAMAÇÃO </i> </h3>
+ 
+ <p align="center" >
+  <a href="https://skillicons.dev">
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" height="40" />
+  </a>
+ <p align="center">
+  Outros: 
+  <a href="texto"><b>lorem ipsum</b>
+  </a><b>, </b><a href="texto"><b>lorem ipsum</b></a>
+  </a><b>, </b><a href="texto"><b>lorem ipsum</b></a>
+  </a><b>, </b><a href="texto"><b>lorem ipsum</b></a>
+  </a><b>, </b><a href="texto"><b>lorem ipsum</b></a>
+ </p>
+</p>
 
- 
- 
- <h3 align="center"> FERRAMENTAS DE GERENCIAMENTO </h3>
+<hr></hr>
+
+ <h3 align="center"> <i> FERRAMENTAS DE GERENCIAMENTO </i></h3>
  
  <p align="center" >
   <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" height="40" />
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" height="40" />
-    <img src="img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" height="40" />
-    <img src="img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" height="40" />
+  
   </a>
 </p>
 
-<br></br>
+<hr></hr>
 
-<h3 align="center"> FERRAMENTAS DE TESTE AUTOMATIZADO </h3>
+<h3 align="center"> <i> FERRAMENTAS DE TESTE AUTOMATIZADO</i> </h3>
  
  <p align="center" >
   <a href="https://skillicons.dev">
@@ -145,7 +166,9 @@ programa padrão.
   </a>
 </p>
 
-<h3 align="center"> ENGINES DE JOGOS </h3>
+<hr></hr>
+
+<h3 align="center"> <i> ENGINES DE JOGOS </i> </h3>
  
  <p align="center" >
   <a href="https://skillicons.dev">
