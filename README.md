@@ -5,6 +5,7 @@
 # Portfolio
 - [Sobre Mim](#sobre-mim)
 - [Educação Superior e Técnica](#educação-superior-e-técnica)
+- [Educação Complementar](#educação-complementar)
 
 
 ## SOBRE MIM
@@ -70,5 +71,35 @@ programa padrão.
 </p>
     </p>
   </h3> 
+  <hr></hr>
   
-  
+## EDUCAÇÃO COMPLEMENTAR
+
+<div style="display: inline_block"><br>
+<div>
+  <h3> EBAC - Escola Britânica de Artes Criativas e Tecnologia
+    <p> <h4> <i><b> Ux Design (Curso Complementar) - Completo </b> </i> </h4>
+    <p>O curso propõe um olhar completo sobre a área de UX Design, através da 
+    <br>modelagem projetual de Design Thinking, nos foi abordado desde os  
+    <br>processos de Ux Research até a parte de prototipação de User Interface.
+    <br><a href="https://ebaconline.com.br/design-ux"><b>Acessar Curso</b></a>
+    </p> 
+    </p>
+    </p>
+    
+
+  <h3> Udemy
+    <p> <h4> <i><b> Jira Software (2023): projetos
+                    <br>completos com Scrum - Completo </b> </i> </h4>
+    <p>Este curso é para todos os que desejam aprender a utilizar a metodologia 
+    <br>Scrum em conjunto com o Jira Software, capacitando os alunos trabalhar de
+    <br>forma extremamente eficiente, realizando todas as cerimôniass do Scrum dentro
+    <br>do Jira. Tudo isso seguindo o passo a passo para a criação de projetos
+    <br>completos no Jira, com Fluxos de Trabalho avançados, Automações, Filtros,
+    <br>Relatórios de Performance.
+    <br><a href="https://ebaconline.com.br/design-ux"><b>Acessar Curso</b></a>
+    </p> 
+    </p>
+    </p>
+    </div>
+  </h3> 
