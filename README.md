@@ -1,98 +1,52 @@
-# PORTFOLIO
+<h1> <b> Pedro Vitor Pereira </b> </h1>
+<h2> <i> Product Designer | Quality Assurance Analyst | </i> </h2>
 
-## About me
+# Portfolio
+- <a href="Sobre Mim">Sobre Mim</a>
 
-My name is Katarzyna Wyborska. 
-I have recently embarked on a career change journey in order to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills.
-I believe that high quality is the bestselling point of services and products. Thanks to my diversified experience I have highly developed interpersonal skills and empathy, which help me see the bigger picture and function well within a team. My international experience has also equipped me with valuable tools, such as open-mindedness and adaptability.
-In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a junior position in testing.
+<h2> 
+<i> 
+<a 
+<id="Sobre Mim"> 
+</a> Sobre Mim 
+</i> 
+</h2>
 
-**My experience**
+ <img align="left" alt="PedroProfile-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/452692019555598346/1073807063383298088/124339406.jpg">
+</div>
 
-My previous experience varies from office assistance through customer service support to label coordinator at a medical company.  
-I my career I have participated in two projects where I was able to test software as a user. One of them was testing web-based ticketing system Rave 2.0 and the other concerned web-based application for label creation and maintenance [Kallik](https://www.kallik.com/). In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my experience. Bugs found by me was reported to supervisor using Excel file. 
-Right now I am also active as a tester at Testbirds.
+<p> Tenho 30 anos, nasci em Diadema, São Paulo. Tenho um diploma da <a href="https://portal.anhembi.br/"><b>Universidade Anhembi Morumbi</b></a> em Design de Jogos e completei vários cursos técnicos.</p> Sou especializado em UI/UX e Animação. Meu estágio completo, realizado em duas empresas diferentes, me ajudou a pavimentar o caminho para o UI/UX e Motion que sigo hoje. Trabalhei em várias empresas, desde pequenas agências digitais até grandes empresas como Edições Globo Condé Nast e Rádio  Novabrasil. <p> Minha última experiência profissional foi na Dreamland Games, uma empresa independente de desenvolvimento de jogos digitais, onde trabalhei como Diretor de Arte, coordenando o departamento de arte e delegando várias tarefas aos juniores, dirigindo projetos e trazendo novos clientes dentro das estratégias de marketing. </p>
+<p> Recentemente, em <b>migração completa para a área de Product Design e Quality Assurance</b>, realizei alguns cursos voltados para a área de testes e usabilidade, tanto testes manuais como automatizados utilizando do Selenium Webdriver, Cypress e Playwright </p> 
 
-## Courses
+<div style="display: inline_block"><br>
+ <div> 
+  <a href = "mailto:contato.pedrovitorpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-* **Software tester course in Software Development Academy**
-* Konsola Deweloperska on [szkoleniedlaqa.pl](https://szkoleniedlaqa.pl/)
-* Jira od podstaw - zarządzanie projektami (Udemy)
-* MySQL tworzenie i zarządzanie bazami danych (Udemy)
-* 6-day HTML/CSS Marathon from GoIT
+  <h2> EDUCAÇÃO SUPERIOR E TÉCNICA </h2>
+  
+  <h3> Universidade Anhembi Morumbi 
+    <p> <h4> <i><b> Design de Games (Bacharelado) - </b> <u> 2013/2018 </u> </i> </h4>
+    <p>O curso superior de Bacharelado em Design de Games capacita o profissional a desenvolver maquetes digitais, roteiros, personagens e cenários para games,        além de produzir vinhetas e jogos (incluindo PC e Web). O profissional também poderá atuar com animação, áudio, jogos eletrônicos e programaçãoou design        de interfaces digitais.</p>
+    </p>
+  </h3> 
+  
+<hr></hr>
 
-## Certificates
+  <h3> SAGA School of Art, Game and Animation 
+    <p> <h4> <i><b> Design de Games (Curso Técnico) - </b> <u> 2010/2011 </u> </i> </h4>
+    <p>O curso de criação de jogos mais atualizado do Brasil, que ensiina desde jogos 2D e 3D para diversas plataformas vivenciando todas as etapas, desde a pré-produção até a criação de um protótipo jogável e sua documentação, evoluindo dentro de um processo de trabalho similar aos dos estúdios profissionais de games. Através da Unreal Engine, motor de jogos mais utilizado e avançado do mundo. 
+</p>
+    </p>
+  </h3> 
+  
+ <hr></hr>
 
-* ISTQB Foundation Level passed in January 2022
-
-## Tools 
-
-* Jira - bug tracker
-* Trello, Azure Devops - project management
-* TestRail - test cases management
-* Rapid Reporter, Test & Feedback - used for exploratory testing
-* Slack - for communication within the team
-* Chrome DevTools - for testing and to improve bug reports
-* Git, Git Bash, GitHub
-* MySQL - relational database management system
-* Postman - testing tool for REST API
-* Cucumber - software supporting behaviour-driven development
-* Selenium IDE - tool use to support automated testing
-* Selenium WebDriver - for automated testing of web applications
-* Java - basics of Java language
-* IntelliJ IDEA - development environment for Java
-* Markdown
-* HTML/CSS
-
-## Books
-
-* [Testowanie oprogramowiania - Piotr Wicherski](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-* Zawód Tester - Radosław Smilgin
-* e-book "ABC Testowania oprogramowania" Waldemar Szafraniec, Dorota Gabor
-* e-book "Jak przeżyć rekrutacje na QA w czasie pandemii" Adam Gola
-
-## Blogs I read
-
-* [testerzy.pl](https://testerzy.pl/)
-* [testerka.pl](http://testerka.pl/blog/)
-* [remigiuszbednarczyk.pl.pl](https://remigiuszbednarczyk.pl/)
-* [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/blog/)
-
-## IT groups on Facebook I follow
-
-* Testowanie oprogramowania
-* Tester oprogramowania - wsparcie na starcie
-* Dare IT Community
-* Girls Who Tests
-* Czy IT jest dla mnie?
-
-## My projects
-
-**Bugs**
-
-* Bug on electro.pl site [LINK to bug](https://drive.google.com/file/d/1WL-AFfEs_03PE1Ji2f3rPtNvx-jtXkgq/view?usp=sharing)
-* Bugs on Ben and Jerry's UK site [LINK to bugs](https://drive.google.com/file/d/14IvQvDujcH7UYyDkTbKGACqCaKvBlxWu/view?usp=sharing)
-
-
-**Test cases**
-
-* Test cases for Mango site [LINK to test cases](https://docs.google.com/spreadsheets/d/1WQgW-N1fAYeZhGfJkiQRPHJCWVpwo19HIvsEqZoOaRw/edit?usp=sharing)
-
-
-**SQL**
-
-* 
-
-
-**HTML/CSS**
-
-* I have participated in 6-day Marathon with HTML/CSS conducted by GoIT. Each day I have recived tasks which helped me to build my web page with CV from scratch. 
-
-  [LINK to my tester CV made during Marathon](https://chimerical-sorbet-a03d75.netlify.app/)
-
-
-**REST API**
-
-*
-
-
+  <h3> SAGA School of Art, Game and Animation 
+    <p> <h4> <i><b> Design de Games (Curso Técnico) - </b> <u> 2010/2011 </u> </i> </h4>
+    <p>O curso de criação de jogos mais atualizado do Brasil, que ensiina desde jogos 2D e 3D para diversas plataformas vivenciando todas as etapas, desde a pré-produção até a criação de um protótipo jogável e sua documentação, evoluindo dentro de um processo de trabalho similar aos dos estúdios profissionais de games. Através da Unreal Engine, motor de jogos mais utilizado e avançado do mundo. 
+</p>
+    </p>
+  </h3> 
+  
