@@ -10,12 +10,13 @@
 - [Sobre Mim](#sobre-mim)
 - [Educação Superior e Técnica](#educação-superior-e-técnica)
 - [Educação Complementar](#educação-complementar)
+- [Hard Skills](#hard-skills)
 
 <br></br>
 
 ## SOBRE MIM  
 
- <img align="left" alt="PedroProfile-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/452692019555598346/1073807063383298088/124339406.jpg">
+ <img align="left" alt="PedroProfile-pic" height="220" style="border-radius:50px;" src="https://media.discordapp.net/attachments/452692019555598346/1073807063383298088/124339406.jpg">
 </div>
 
 <p> Tenho 30 anos, nasci em Diadema, São Paulo. Tenho um diploma da <a href="https://portal.anhembi.br/"><b>Universidade Anhembi Morumbi</b></a> em Design de Jogos e completei vários cursos técnicos.</p> Sou especializado em UI/UX e Animação. Meu estágio completo, realizado em duas empresas diferentes, me ajudou a pavimentar o caminho para o UI/UX e Motion que sigo hoje. Trabalhei em várias empresas, desde pequenas agências digitais até grandes empresas como Edições Globo Condé Nast e Rádio  Novabrasil. <p> Minha última experiência profissional foi na Dreamland Games, uma empresa independente de desenvolvimento de jogos digitais, onde trabalhei como Diretor de Arte, coordenando o departamento de arte e delegando várias tarefas aos juniores, dirigindo projetos e trazendo novos clientes dentro das estratégias de marketing. </p>
@@ -24,15 +25,15 @@
 <div style="display: inline_block"><br>
  <div> 
   <a alt="Gmail"
-   href = "mailto:contato.pedrovitorpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   href = "mailto:contato.pedrovitorpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="40" target="_blank"></a>
   <a alt="Linkedin"
-   href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   href="https://www.linkedin.com/in/pedrovitorpereira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" target="_blank"></a>
   <a alt="Whatsapp"
-   href="https://wa.link/ibh8xv" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+   href="https://wa.link/ibh8xv" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"  target="_blank"></a> 
   <a alt="Behance"
-   href="https://www.behance.net/pedrovitor-design" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+   href="https://www.behance.net/pedrovitor-design" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height="40"  target="_blank"></a> 
   <a alt="Discord"
-   href="https://discord.com/users/229499134414028800" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   href="https://discord.com/users/229499134414028800" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40"  target="_blank"></a> 
   
 
 
