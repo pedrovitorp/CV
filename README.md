@@ -44,7 +44,7 @@
 <br>
   
 ## CV
- ### No link abaixo, coloquei acesso a meu CV online para análise. Mas, caso prefira, você também pode acessar ao pdf do meu CV <a href=""><b>aqui.</b></a>
+ ### No link abaixo, coloquei acesso a meu CV online para análise. Mas, caso prefira, você também pode acessar ao pdf do meu CV <a href="https://drive.google.com/file/d/1ghMKDkqL87ZLgC_FHIXBgXn1EnZ0AQph/view"><b>aqui.</b></a>
  <a href=""><b>Acessar CV Digital</b></a>
  <br><br><br>
 
