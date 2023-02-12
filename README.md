@@ -16,6 +16,7 @@
   * [Técnicas de Teste](#técnicas-de-teste)
   * [Habilidades](#habilidades)
   * [Projetos como QA](#projetos-como-qa)
+ - [Outras Redes Sociais](#me-encontre-em-outras-redes-sociais)
 
 <br>
 
@@ -245,7 +246,18 @@ programa padrão.
 ### Projetos como QA
 #### Neste repositório, coloquei todas as técnicas que normalmente utilizo dentro da área de Quality Assurance Testing, descritivos das técnicas, e links das ferramentas para a execução dos testes (quando houver). Também estarei colocando alguns exemplos de aplicação das técnicas nos meus próprios testes, relacionados aos links.
  
- 
+<br></br>
+<hr></hr> 
+<br></br>
+<br></br>
+
+### ME ENCONTRE EM OUTRAS REDES SOCIAIS
+#### Curtiu? Me encontre em outras redes sociais e vamos conversar.
+<br>
+<a alt="Twitter"
+   href = "mailto:contato.pedrovitorpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="40" target="_blank"></a>
+<a alt="Instagram"
+   href = "mailto:contato.pedrovitorpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="40" target="_blank"></a>
  
  <br></br>
   - [Voltar ao Início da Página](#início)
