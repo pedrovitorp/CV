@@ -15,7 +15,7 @@
 - [QA Analyst](#qa-analyst)
   * [Técnicas de Teste](#técnicas-de-teste)
   * [Habilidades](#habilidades)
-  * [Trabalhos como QA](#trabalhos-como-qa)
+  * [Projetos como QA](#projetos-como-qa)
 
 <br>
 
@@ -218,8 +218,7 @@ programa padrão.
 </p>
 
 ## QA ANALYST
-<br>
-
+<br></br>
 ### TÉCNICAS DE TESTE
 #### Neste repositório, coloquei todas as técnicas que normalmente utilizo dentro da área de Quality Assurance Testing, descritivos das técnicas, e links das ferramentas para a execução dos testes (quando houver). Também estarei colocando alguns exemplos de aplicação das técnicas nos meus próprios testes, relacionados aos links.
 <br>
@@ -232,6 +231,21 @@ programa padrão.
  | **Diagrama de Estados de Transição**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://miro.com/"><b>Miro</b><a/> <br><a href="https://clickup.com/"><b>Clickup</b><a/> |
  | **Teste de Caso de Uso**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> |  |
  | **Análise do Valor Limite**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> |  |
+
+<hr></hr> 
+<br></br>
+
+### HABILIDADES
+#### Neste repositório, coloquei todas as técnicas que normalmente utilizo dentro da área de Quality Assurance Testing, descritivos das técnicas, e links das ferramentas para a execução dos testes (quando houver). Também estarei colocando alguns exemplos de aplicação das técnicas nos meus próprios testes, relacionados aos links.
+
+<br></br>
+<hr></hr> 
+<br></br>
+ 
+### Projetos como QA
+#### Neste repositório, coloquei todas as técnicas que normalmente utilizo dentro da área de Quality Assurance Testing, descritivos das técnicas, e links das ferramentas para a execução dos testes (quando houver). Também estarei colocando alguns exemplos de aplicação das técnicas nos meus próprios testes, relacionados aos links.
+ 
+ 
  
  <br></br>
   - [Voltar ao Início da Página](#início)
