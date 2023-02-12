@@ -11,7 +11,11 @@
 - [Educação Superior e Técnica](#educação-superior-e-técnica)
 - [Educação Complementar](#educação-complementar)
 - [Hard Skills](#hard-skills)
-- [Técnicas de Teste](#técnicas-de-teste)
+- [Teste de Software](#técnicas-de-teste)
+  * [Teste de Software](#técnicas-de-teste)
+  * [Teste de Software](#técnicas-de-teste)
+  * [Teste de Software](#técnicas-de-teste)
+  * [Teste de Software](#técnicas-de-teste)
 - 
 
 <br>
@@ -210,15 +214,17 @@ programa padrão.
 </p>
 
 ## TÉCNICAS DE TESTE
-### Neste repositório, coloquei todas as técnicas que normalmente utilizo dentro da área de Quality Assurance Testing, descritivos das técnicas, e links das ferramentas para a execução dos testes (quando houver). Também estarei colocando alguns exemplos de aplicação das técnicas nos meus próprios testes, relacionados aos links.
+#### Neste repositório, coloquei todas as técnicas que normalmente utilizo dentro da área de Quality Assurance Testing, descritivos das técnicas, e links das ferramentas para a execução dos testes (quando houver). Também estarei colocando alguns exemplos de aplicação das técnicas nos meus próprios testes, relacionados aos links.
 <br>
 
 |Técnica de Teste|Descrição da Técnica|Ferramentas Úteis para Execução da Técnica|
 |---------------|--------------|---------------|
-| **Técnica de Todos os Pares**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://pairwise.teremokgames.com/"><b>Pairwise Tool</b><a/> |
-| **Técnica de Todos os Pares**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://pairwise.teremokgames.com/"><b>Pairwise Tool</b><a/> |
- | **Técnica de Todos os Pares**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://pairwise.teremokgames.com/"><b>Pairwise Tool</b><a/> |
- | **Técnica de Todos os Pares**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://pairwise.teremokgames.com/"><b>Pairwise Tool</b><a/> |
+| **Técnica de Todos os Pares**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução.<a href=""> <b>Continuar lendo...</b><a/> <br> <a href="">Exemplo de Aplicação</a> | <a href="https://pairwise.teremokgames.com/"><b>Pairwise Tool</b><a/> |
+| **Particionamento de Equivalência**| O particionamento de equivalência é uma técnica de testes com base em requisitos (também conhecida como caixa preta), que significa que ao utilizar esta técnica, a pessoa que testa aplicações passa a ter noção clara de cobertura de testes a partir de requisitos e especificações. Este tipo de técnica não requer conhecimento dos caminhos internos, estrutura ou implementação do software sob teste.<a href=""> <b>Continuar lendo...</b> <br> <a href="">Exemplo de Aplicação</a> | |
+ | **Tabela de Decisão**| Técnicas baseadas em especificações são fundamentadas através da análise da base de testes (requisitos, documentos formais, especificações, casos de uso, estórias de usuários …), sem alusão à sua estrutura interna, ou seja, não leva em consideração a codificação do software para obter casos de testes referente a um componente. <a href=""> <b>Continuar lendo...</b> <br> <a href="">Exemplo de Aplicação</a> | <a href="http://juliodelima.com.br/xdecision/pt"><b>XDecision</b><a/> |
+ | **Diagrama de Estados de Transição**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> | <a href="https://miro.com/"><b>Miro</b><a/> <br><a href="https://clickup.com/"><b>Clickup</b><a/> |
+ | **Teste de Caso de Uso**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> |  |
+ | **Análise do Valor Limite**| A técnica de Pairwise consiste em testar um software sem ter que utilizar **100% das possibilidades de variações existentes**, o que em determinados casos pode gerar anos de execução de casos de teste. A metodologia leva em consideração que determinados casos de teste são mais representativos ao sistema, em detrimento a outros que raramente serão colocados em tempo de execução. <br> <a href="">Exemplo de Aplicação</a> |  |
  
  <br></br>
   - [Voltar ao Início da Página](#início)
