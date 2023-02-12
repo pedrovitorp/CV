@@ -8,15 +8,14 @@
 ## INÍCIO 
 
 - [Sobre Mim](#sobre-mim)
+- [CV](#cv)
 - [Educação Superior e Técnica](#educação-superior-e-técnica)
 - [Educação Complementar](#educação-complementar)
 - [Hard Skills](#hard-skills)
-- [Teste de Software](#técnicas-de-teste)
-  * [Teste de Software](#técnicas-de-teste)
-  * [Teste de Software](#técnicas-de-teste)
-  * [Teste de Software](#técnicas-de-teste)
-  * [Teste de Software](#técnicas-de-teste)
-- 
+- [QA Analyst](#qa-analyst)
+  * [Técnicas de Teste](#técnicas-de-teste)
+  * [Habilidades](#habilidades)
+  * [Trabalhos como QA](#trabalhos-como-qa)
 
 <br>
 
@@ -40,10 +39,15 @@
    href="https://www.behance.net/pedrovitor-design" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" height="40"  target="_blank"></a> 
   <a alt="Discord"
    href="https://discord.com/users/229499134414028800" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="40"  target="_blank"></a> 
+  </div>
+ 
+<br>
   
+## CV
+ ### No link abaixo, coloquei acesso a meu CV online para análise. Mas, caso prefira, você também pode acessar ao pdf do meu CV <a href=""><b>aqui.</b></a>
+ <a href=""><b>Acessar CV Digital</b></a>
+ <br><br><br>
 
-
-</div>
 
 ## EDUCAÇÃO SUPERIOR E TÉCNICA 
   
@@ -213,7 +217,10 @@ programa padrão.
   </a>
 </p>
 
-## TÉCNICAS DE TESTE
+## QA ANALYST
+<br>
+
+### TÉCNICAS DE TESTE
 #### Neste repositório, coloquei todas as técnicas que normalmente utilizo dentro da área de Quality Assurance Testing, descritivos das técnicas, e links das ferramentas para a execução dos testes (quando houver). Também estarei colocando alguns exemplos de aplicação das técnicas nos meus próprios testes, relacionados aos links.
 <br>
 
